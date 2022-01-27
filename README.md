@@ -1,3 +1,9 @@
+![This is fatalsec](https://i.gifer.com/946o.gif)
+
+> Silence, fatalsec is programming...
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Hello%2C+welcome+to+my+github!;Be+a+good+boy+and+give+stars+to+my+projects!;My+name+is+fatalsec">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=Fatalsec&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
