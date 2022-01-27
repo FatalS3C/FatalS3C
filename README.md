@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/946o.gif">
+<img alt="" src="https://i.gifer.com/946o.gif">
 
 > Silence, fatalsec is programming...
 
