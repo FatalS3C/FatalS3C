@@ -1,4 +1,4 @@
-![This is fatalsec](https://i.gifer.com/946o.gif)
+<img src="https://i.gifer.com/946o.gif">
 
 > Silence, fatalsec is programming...
 
