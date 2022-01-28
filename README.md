@@ -103,7 +103,7 @@ I like to make hacking/pentest oriented tools.*
 
 <a href="https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/FATALSEC-YOUTUBE-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="https://t.me/archonchat" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/archon-group-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="https://t.me/+0GyvzDcKtwY2ODc5" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/archon-group-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 *My teams | sites | and groups*
 
