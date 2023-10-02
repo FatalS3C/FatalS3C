@@ -44,4 +44,4 @@ I'm Brazilian, I have basic and medium knowledge in pentest.
 If you want to talk to me, below are some social networks, among others.*
 
 [![Fatalsecarchon](https://img.shields.io/badge/Fatalsecarchon-1a1a1a?style=plastic&logo=youtube&logoColor=a436ff&link=https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A)](https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A)
-[![Fatalsec-Channel](https://img.shields.io/badge/Fatalsec--Channel-1a1a1a?style=plastic&logo=telegram&logoColor=a436ff&link=https://t.me/fatalsec)](https://t.me/fatalsec)[![F4t4lsec](https://img.shields.io/badge/F4t4lsec-1a1a1a?style=plastic&logo=twitter&logoColor=a436ff&link=https://twitter.com/F4t4lsec)](https://twitter.com/F4t4lsec)
+[![Fatalsec-Channel](https://img.shields.io/badge/Fatalsec--Channel-1a1a1a?style=plastic&logo=telegram&logoColor=a436ff&link=https://t.me/fatalsec)] (https://t.me/fatalsec)[![F4t4lsec](https://img.shields.io/badge/F4t4lsec-1a1a1a?style=plastic&logo=twitter&logoColor=a436ff&link=https://twitter.com/F4t4lsec)](https://twitter.com/F4t4lsec)
