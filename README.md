@@ -38,6 +38,9 @@ I'm Brazilian, I have basic and medium knowledge in pentest.
 
 ![Windows](https://img.shields.io/badge/Windows-10-a436ff?labelColor=1a1a1a&style=for-the-badge&logo=windows10&logoColor=a436ff)
 
+## Love me?
+<a href='https://livepix.gg/fatallartes' target="_blank"><img alt='pix' src='https://img.shields.io/badge/PIX-100000?style=for-the-badge&logo=pix&logoColor=white&labelColor=black&color=black'/></a> <a href='https://github.com/FatalS3C/FatalS3C/blob/main/my_btc.png' target="_blank"><img alt='bitcoin' src='https://img.shields.io/badge/BTC-100000?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=black&color=black'/></a>
+
 *My Linux versions are very old, I'm not a fan of updating the system when it's already doing its job.*
 ## Social
 *If you made it this far, thank you! ^^
