@@ -12,17 +12,17 @@
 
 
 # Social
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/fatalsecarchon?style=flat&logo=x&logoColor=%23733dad&label=Meu%20Twitter%2FX&labelColor=%232b2b2b&color=%23733dad) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVroJZsK3Qrvtvnk7NCKn-A?style=flat&logo=youtube&logoColor=%23733dad&label=Canal%20no%20YT&labelColor=%232b2b2b&color=%23733dad) ![Telegram](https://img.shields.io/badge/Canal_-Fatalsec-100000?style=flat&logo=telegram&logoColor=733dad&labelColor=2b2b2b&color=733dad) ![Instagram](https://img.shields.io/badge/Instagram_-@Fatalsec-100000?style=flat&logo=instagram&logoColor=733dad&labelColor=2b2b2b&color=733dad&link=https%3A%2F%2Finstagram.com%2Ffatalsec) ![Steam](https://img.shields.io/badge/Canal_-Fatalsec-100000?style=flat&logo=telegram&logoColor=733dad&labelColor=2b2b2b&color=733dad) ![Steam](https://img.shields.io/badge/Steam-Fatals3c-100000?style=flat&logo=steam&logoColor=733dad&labelColor=2b2b2b&color=733dad&link=https://steamcommunity.com/profiles/76561199487005933/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/fatalsecarchon?style=flat&logo=x&logoColor=%23733dad&label=Meu%20Twitter%2FX&labelColor=%232b2b2b&color=%23733dad)("https://x.com/fatalsecarchon") ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVroJZsK3Qrvtvnk7NCKn-A?style=flat&logo=youtube&logoColor=%23733dad&label=Canal%20no%20YT&labelColor=%232b2b2b&color=%23733dad)("https://www.youtube.com/@fatalsecarchon") ![Telegram](https://img.shields.io/badge/Canal_-Fatalsec-100000?style=flat&logo=telegram&logoColor=733dad&labelColor=2b2b2b&color=733dad)("https://t.me/fatalsec") ![Instagram](https://img.shields.io/badge/Instagram_-@Fatalsec-100000?style=flat&logo=instagram&logoColor=733dad&labelColor=2b2b2b&color=733dad)(https%3A%2F%2Finstagram.com%2Ffatalsec) ![Steam](https://img.shields.io/badge/Steam-Fatals3c-100000?style=flat&logo=steam&logoColor=733dad&labelColor=2b2b2b&color=733dad)(https://steamcommunity.com/profiles/76561199487005933/)
 #
-![Livepixkkk](https://img.shields.io/badge/Me_apoie!-100000?style=for-the-badge&logo=pix&logoColor=733dad&labelColor=2b2b2b&color=2b2b2b&link=https://livepix.gg/fatallartes)
+![Livepixkkk](https://img.shields.io/badge/Me_apoie!-100000?style=for-the-badge&logo=pix&logoColor=733dad&labelColor=2b2b2b&color=2b2b2b)(https://livepix.gg/fatallartes)
 #
 
 # Brazuka undernet (Comunidade)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard&weight=100&duration=1000&pause=1000&color=65EB5E&center=true&vCenter=true&random=true&width=435&lines=Ratos;Underground;Chatfod4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard&weight=100&duration=1000&pause=1000&color=65EB5E&center=true&vCenter=true&random=true&width=435&lines=Ratos;Underground;Chatfod4)](
 
-![Blog](https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=artifacthub&logoColor=65eb5e&labelColor=2b2b2b&color=65eb5e&link=https%3A//brazukaundernet.github.io/blog/)
-![Canal%20Telegram](https://img.shields.io/badge/Canal%20Telegram-100000?style=for-the-badge&logo=telegram&logoColor=65eb5e&labelColor=2b2b2b&color=65eb5e&link=https%3A//https%3A//t.me/brazuka_undernet)
-![Grupo%20Telegram](https://img.shields.io/badge/Grupo%20Telegram-100000?style=for-the-badge&logo=telegram&logoColor=65eb5e&labelColor=2b2b2b&color=65eb5e&link=https%3A//t.me/%2BZtl-C31hGSEzNjAx)
+![Blog](https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=artifacthub&logoColor=65eb5e&labelColor=2b2b2b&color=65eb5e)(https%3A//brazukaundernet.github.io/blog/)
+![Canal%20Telegram](https://img.shields.io/badge/Canal%20Telegram-100000?style=for-the-badge&logo=telegram&logoColor=65eb5e&labelColor=2b2b2b&color=65eb5e)(https%3A//https%3A//t.me/brazuka_undernet))
+![Grupo%20Telegram](https://img.shields.io/badge/Grupo%20Telegram-100000?style=for-the-badge&logo=telegram&logoColor=65eb5e&labelColor=2b2b2b&color=65eb5e)(https%3A//t.me/%2BZtl-C31hGSEzNjAx)
 
 
 # SKILLS & HACKING STACK
